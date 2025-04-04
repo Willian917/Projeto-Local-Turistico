@@ -63,7 +63,7 @@ body{
     width: 1120px;
 }
 
-img{
+.img{
     border-radius: 28px;
 }
 
@@ -111,4 +111,8 @@ p+p{
 
 footer{
     text-align: center;
+}
+
+footer img{
+    vertical-align: middle;
 }
